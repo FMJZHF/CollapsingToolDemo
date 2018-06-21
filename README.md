@@ -1,2 +1,2 @@
 # CollapsingToolDemo
-吸顶效果
+Android 吸顶效果
